@@ -129,7 +129,7 @@ export default function Home() {
                   <Smartphone className="w-6 h-6 text-white" />
                 </div>
                 <h3 className="text-lg font-semibold text-foreground mb-2" data-testid="text-feature-responsive-title">
-                  Responsive 3
+                  Responsive 1
                 </h3>
                 <p className="text-muted-foreground text-sm" data-testid="text-feature-responsive-description">
                   Perfectly adapted for all screen sizes, from mobile phones to desktop displays.
