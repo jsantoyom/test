@@ -125,8 +125,8 @@ export default function Home() {
             {/* Feature 2 */}
             <Card className="hover:shadow-md transition-shadow duration-200" data-testid="card-feature-responsive">
               <CardContent className="p-6">
-                <div className="w-12 h-12 bg-primary rounded-lg flex items-center justify-center mb-4 mx-auto">
-                  <Smartphone className="w-6 h-6 text-primary-foreground" />
+                <div className="w-12 h-12 bg-purple-500 rounded-lg flex items-center justify-center mb-4 mx-auto">
+                  <Smartphone className="w-6 h-6 text-white" />
                 </div>
                 <h3 className="text-lg font-semibold text-foreground mb-2" data-testid="text-feature-responsive-title">
                   Responsive
