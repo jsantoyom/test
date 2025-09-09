@@ -20,7 +20,7 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             <div className="flex-shrink-0">
               <h2 className="text-lg font-semibold text-foreground" data-testid="text-brand">
-                Hello World Demo
+                Hola Mundo Demo
               </h2>
             </div>
             <div className="hidden md:block">
@@ -162,7 +162,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto py-8 px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <p className="text-muted-foreground text-sm" data-testid="text-copyright">
-              © 2024 Hello World Demo. Built with modern web technologies.
+              © 2024 Hola Mundo Demo. Built with modern web technologies.
             </p>
             <div className="mt-4 flex justify-center space-x-6">
               <button 
